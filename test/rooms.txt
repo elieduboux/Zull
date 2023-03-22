@@ -1,0 +1,18 @@
+go south
+back
+go west
+take climb
+learn climb
+go up
+go east
+back
+go north
+alea Hole
+go east
+go north
+take swim
+learn swim
+go west
+go north
+go up
+go west

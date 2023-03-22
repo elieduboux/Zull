@@ -1,0 +1,29 @@
+go west
+take climb
+learn climb
+go up
+go east
+take shrink
+learn shrink
+take light
+learn light
+take apple 5
+eat apple 5
+back
+go north
+go east
+alea Hole
+talk
+go east
+talk
+take swim
+learn swim
+go west
+light
+take transform
+learn transform
+go north
+go up
+go south
+talk
+transform

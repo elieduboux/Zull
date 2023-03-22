@@ -1,0 +1,3 @@
+take moss
+drop moss
+talk

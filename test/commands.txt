@@ -1,0 +1,24 @@
+help
+talk
+look
+go west
+take climb
+learn climb
+go up
+go east
+take light
+learn light
+take apple 2
+eat apple
+drop apple
+back
+go north
+take beamer
+inventory
+charge
+alea Tunnel
+go east
+go north
+light
+transform
+quit
